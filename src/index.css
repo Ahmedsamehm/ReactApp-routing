@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.barStar {
+
+    height: 5px;
+    background: white;
+    border-radius: 10px;
+
+}
+.btnSend{
+    background: #1ABC9C;
+}
+.About{
+    background: #1ABC9C;
+}
+.FooterBg{
+    background: #2C3E50;
+}

@@ -1,0 +1,10 @@
+.navbar{
+    background: #2c3e50;
+}
+.navbar .Active{
+    background: #1ABC9C;
+
+}
+.navbar .linkHolder a:hover{
+    color: #1ABC9C;
+}
